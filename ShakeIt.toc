@@ -1,0 +1,7 @@
+## Interface: 90200
+## Version: 0.0.1
+## Title: ShakeIt
+## Notes: Makes the minimap shake on a critical hit.
+## Author: @fl0aten
+
+ShakeIt.xml
